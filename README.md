@@ -1,0 +1,2 @@
+# SolvePolinomios_Calculadora_de_Polinomios
+Se desarrolla el código de python, el cual se puede hacer uso de él por derechos de @CopyRight CC presente licencia creada por los autores Luis Gerardo Cardozo Carranza, Marisol Rosaldo Jimenéz. Los cuales son posibles llevar a cabo la ejecución online dentro del enlace https://paiza.io/es/languages/python3 , las intrucciones vienen dentro del Manual de Usuario. De la Materia de Investigación de Operaciones.
